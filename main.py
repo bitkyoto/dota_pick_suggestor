@@ -1,8 +1,12 @@
 import requests
 import pprint
 from bs4 import BeautifulSoup as bs
-from config import host, user, password, db_name
+
 import psycopg2
+host = "127.0.0.1"
+user = "postgres"
+password = "89215565545max"
+db_name = "postgres"
 # enemyTeam = ["Axe", "Dawnbreaker","Invoker","Vengeful Spirit","Nature's Prophet"]
 # myTeam = ["Treant Protector", "Pangolier","Omniknight","Night Stalker","Oracle"]
 # totalScore = dict()
