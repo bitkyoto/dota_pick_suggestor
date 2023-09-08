@@ -1,0 +1,123 @@
+Phantom Assassin 0.468 0.508
+Vengeful Spirit 0.595 0.49
+Dawnbreaker 0.563 0.505
+Invoker 0.618 0.476
+Earthshaker 0.578 0.518
+Treant Protector 0.624 0.454
+Razor 0.503 0.526
+Rubick 0.522 0.526
+Nature's Prophet 0.575 0.461
+Earth Spirit 0.54 0.542
+Skywrath Mage 0.529 0.532
+Primal Beast 0.553 0.478
+Legion Commander 0.51 0.54
+Faceless Void 0.432 0.541
+Sven 0.528 0.521
+Morphling 0.487 0.54
+Grimstroke 0.514 0.556
+Ember Spirit 0.544 0.54
+Pangolier 0.589 0.511
+Slark 0.481 0.513
+Pudge 0.46 0.597
+Queen of Pain 0.534 0.521
+Terrorblade 0.396 0.55
+Warlock 0.481 0.557
+Lina 0.489 0.545
+Dark Willow 0.566 0.504
+Lion 0.522 0.578
+Doom 0.512 0.554
+Witch Doctor 0.456 0.567
+Brewmaster 0.574 0.475
+Templar Assassin 0.477 0.511
+Drow Ranger 0.296 0.569
+Undying 0.511 0.583
+Mars 0.493 0.576
+Spirit Breaker 0.505 0.556
+Monkey King 0.538 0.505
+Storm Spirit 0.461 0.553
+Marci 0.556 0.55
+Phoenix 0.506 0.526
+Tusk 0.542 0.542
+Void Spirit 0.488 0.567
+Venomancer 0.523 0.555
+Troll Warlord 0.52 0.536
+Ancient Apparition 0.593 0.532
+Puck 0.522 0.587
+Dark Seer 0.559 0.544
+Mirana 0.458 0.516
+Clinkz 0.521 0.552
+Lich 0.461 0.534
+Keeper of the Light 0.554 0.515
+Outworld Destroyer 0.505 0.532
+Windranger 0.472 0.54
+Tidehunter 0.507 0.511
+Huskar 0.484 0.568
+Zeus 0.569 0.582
+Ursa 0.487 0.557
+Oracle 0.543 0.541
+Io 0.573 0.51
+Tinker 0.498 0.541
+Silencer 0.476 0.574
+Night Stalker 0.58 0.525
+Snapfire 0.498 0.593
+Shadow Fiend 0.47 0.598
+Slardar 0.528 0.586
+Clockwerk 0.584 0.539
+Beastmaster 0.537 0.624
+Axe 0.496 0.535
+Necrophos 0.48 0.564
+Techies 0.475 0.658
+Timbersaw 0.434 0.577
+Jakiro 0.54 0.558
+Nyx Assassin 0.524 0.509
+Disruptor 0.554 0.608
+Bloodseeker 0.518 0.498
+Bounty Hunter 0.556 0.498
+Viper 0.464 0.476
+Naga Siren 0.673 0.551
+Chen 0.555 0.468
+Shadow Shaman 0.529 0.511
+Spectre 0.514 0.531
+Bane 0.535 0.474
+Riki 0.471 0.509
+Batrider 0.543 0.592
+Juggernaut 0.571 0.573
+Phantom Lancer 0.4 0.548
+Shadow Demon 0.505 0.527
+Visage 0.548 0.569
+Wraith King 0.476 0.61
+Dazzle 0.558 0.583
+Death Prophet 0.514 0.582
+Tiny 0.466 0.644
+Elder Titan 0.541 0.571
+Bristleback 0.469 0.54
+Muerta 0.564 0.483
+Lone Druid 0.587 0.526
+Crystal Maiden 0.444 0.553
+Hoodwink 0.489 0.55
+Anti-Mage 0.44 0.616
+Chaos Knight 0.535 0.472
+Kunkka 0.523 0.493
+Leshrac 0.503 0.547
+Weaver 0.585 0.547
+Lycan 0.662 0.552
+Underlord 0.421 0.531
+Sniper 0.543 0.562
+Magnus 0.479 0.563
+Sand King 0.5 0.589
+Enchantress 0.43 0.58
+Dragon Knight 0.508 0.569
+Pugna 0.526 0.576
+Centaur Warrunner 0.418 0.598
+Ogre Magi 0.477 0.575
+Omniknight 0.591 0.571
+Abaddon 0.583 0.527
+Winter Wyvern 0.34 0.593
+Alchemist 0.49 0.558
+Luna 0.353 0.617
+Medusa 0.3 0.58
+Meepo 0.457 0.527
+Lifestealer 0.5 0.548
+Broodmother 0.507 0.425
+Enigma 0.5 0.62
+Arc Warden 0.439 0.596
